@@ -47,7 +47,7 @@ const Hero = () => {
             </button>
             <button className='py-1 px-1 rounded-full sm:w-fit mt-3 w-full bg-gradient-to-br from-orange-500 via-red-600 to-blue-500 hover:bg-slate-900 text-white border border-white'>
               <span className='block bg-black rounded-full px-5 py-2 hover:bg-slate-900'>
-                <a href="/docs/LincolynAbabuBogeResumeCURRENT.pdf" className="flex items-center">
+                <a href="/docs/LincolynAbabuCURRENT.pdf" className="flex items-center">
                   <span className="mr-2">Download Resume</span>
                   <Image src="/assets/img/download-solid.svg" width={3} height={3} alt="download" className="w-5 filter invert h-5" />
                 </a>
